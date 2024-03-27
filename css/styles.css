@@ -136,7 +136,8 @@ li{
 }
 
 .header{
-  background-image: url("images/header2.jpg");
+  /*background-image: url("images/header2.jpg");*/
+  background-color:#0078AA;
 }
 
 .mid{
